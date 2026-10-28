@@ -120,10 +120,6 @@ VITE_API_URL=https://your-backend-url/api
 - [ ] Training and development programs
 - [ ] Employees can view only their own records and leaves
 
-## Acknowledgements
-
-This project is based on the open-source [StaffSync by nandaniii79-droid](https://github.com/nandaniii79-droid/staffsync). Features listed in the Roadmap are my own additions and are still in progress.
-
 ## Author
 
 **kritarthbansal27-star** - [GitHub](https://github.com/kritarthbansal27-star)
